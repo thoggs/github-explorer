@@ -149,6 +149,7 @@ dist
 # dependencies
 /node_modules
 /.pnp
+.idea
 .pnp.js
 
 # testing
